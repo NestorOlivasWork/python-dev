@@ -1,0 +1,6 @@
+import math
+print("Calculates GCD of two numbers \n ")
+a = int(input("Enter Number: "))
+b = int(input("Enter Number: "))
+gcd = math.gcd(a, b)
+print("Greatest Common Divisor: ", gcd)
