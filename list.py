@@ -17,4 +17,5 @@ data[5:] = []
 print(data)
 a, b, c, d = animals
 x, y, z = "Orange", "Banana", "Cherry"
+ff = "dddd"
 print(type(a))
